@@ -11,3 +11,8 @@ li, p, a {
     color: #eaf6fb;
     font-family: Arial, sans-serif;
 }
+
+.intro {
+    text-align: center;
+    margin: 20px;
+}
